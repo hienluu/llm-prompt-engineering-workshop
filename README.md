@@ -1,1 +1,6 @@
-# llm-prompt-engineering-workshop
+# LLMs and Prompt Engineering Workshop
+
+
+####
+Resources:
+* [UCSC Workshop Information](https://www.ucsc-extension.edu/courses/ai-technology-workshop-series-llms-and-prompt-engineering/)
