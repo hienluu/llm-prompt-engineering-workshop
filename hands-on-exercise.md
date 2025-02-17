@@ -1,6 +1,10 @@
 ## Hands-On Exercises
 
 ### Meeting Summary Generation
+#### Task
+Imagine you have raw, unstructured meeting notes from a weekly team meeting. Your goal is to produce a concise yet comprehensive summary that highlights key decisions, action items, deadlines, and discussion points.
+
+Craft a prompt that instructs the language model to transform these raw notes into a polished meeting summary.
 
 #### Input
 
@@ -37,6 +41,8 @@ Next Meeting:
 
 
 ### Data Analysis
+#### Task
+You have a dataset that contains monthly sales figures across different regions. Your task is to extract meaningful insights and suggest appropriate visualizations to present the data effectively.
 
 #### Input
 ```
@@ -68,4 +74,12 @@ Date,Region,Product_Category,Units_Sold,Sales_Amount,Discount_Percentage
   *  Opportunities in Electronics
   *  Sales consistency vs promotional effects
 
-### Email Response Automation
+### Developing a Marketing Campaign Idea
+#### Task
+A company is launching a new line of eco-friendly reusable water bottles. The target audience is urban, environmentally conscious professionals aged 25-40. The campaign should emphasize sustainability and modern design
+
+Write a prompt that instructs the language model to generate multiple creative marketing campaign ideas. Each idea should include:
+* A brief description.
+* A suggested social media strategy.
+* Ideas for engaging the target audience
+
