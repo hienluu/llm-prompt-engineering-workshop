@@ -83,3 +83,17 @@ Write a prompt that instructs the language model to generate multiple creative m
 * A suggested social media strategy.
 * Ideas for engaging the target audience
 
+#### Input
+Product Details: Eco-friendly reusable water bottles with a focus on sustainability and modern design
+
+#### Output
+* Part #1
+  
+* Part #2
+ * Integration of influencer partnerships
+ * Inclusion of an interactive online challenge element
+
+Possible outcomes:
+* Campaign Idea 1: A sustainability challenge encouraging users to share eco-friendly habits, paired with influencer endorsements.
+* Campaign Idea 2: A series of short, engaging videos on social media showcasing modern design and environmental impact, with interactive polls.
+* Campaign Idea 3: A collaborative campaign where customers co-create designs for future bottles, integrated with live Q&A sessions from influencers.
