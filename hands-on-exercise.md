@@ -66,7 +66,9 @@ Date,Region,Product_Category,Units_Sold,Sales_Amount,Discount_Percentage
 
 #### Output
 * Part #1
+  * summarize the data
   * key insights along with suggested visualization
+  * recommended action based on the insights
 * Part #2
   *  Discount impact on revenue per unit
   *  Regional variance in revenue efficiency
@@ -86,12 +88,9 @@ Write a prompt that instructs the language model to generate multiple creative m
 #### Input
 Product Details: Eco-friendly reusable water bottles with a focus on sustainability and modern design
 
-#### Output
-* Part #1
-  
-* Part #2
- * Integration of influencer partnerships
- * Inclusion of an interactive online challenge element
+#### Ideas to  consider
+* Integration of influencer partnerships
+* Inclusion of an interactive online challenge element
 
 Possible outcomes:
 * Campaign Idea 1: A sustainability challenge encouraging users to share eco-friendly habits, paired with influencer endorsements.
