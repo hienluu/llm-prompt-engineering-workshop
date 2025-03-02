@@ -9,7 +9,7 @@
 
 
 
-#### Transcript
+#### Transcript - Use Strategic Thinking to Create the Life You Want
 ```
 Strategize Your Life takes the principles of strategy, and also strategic thinking, used in the world's boardrooms and applies them to your own life. 
 By going through a seven-step program, you will have developed your own life strategy on a single page. Where did this idea come from? I spent almost half my life 
@@ -72,5 +72,67 @@ Now you could say, isn't a great life a chain of lucky events? Fortunately, Sene
 And strategize your life helps you with the preparation.
 ```
 
-#### Resources
+#### Transcript - Use Strategic Thinking to Create the Life You Want
+
+#### Resources - The Luck Formula: The Secret to Being in the Right Place at Right Time
+
+```
+so what if I told you that luck is actually a myth then instead of waiting for it to find you you can actually create yourself now think about it
+how many times in your life have you thought something happened to you because you were lucky but what if that wasn't luck what if you had more
+control than you think I used to say that my successes in life were due to luck uh I got into my dream University studying computer science
+I made it on the financial times as top 50 with inspiring women in Tech in the UK and then the year after top 50 in Europe and I also got to meet Hillary Clinton
+now you might think that it's because she's hardworking but I was surrounded by so many hardworking people and even my parents would joke my Dad's here
+in the audience that I must have some horseshoe around me because things just seem to fall right into place even though my journey was chaotic
+or turbulent I started wondering actually luck is more than just a random chance now we've all heard of the butterfly effect it's the idea that
+a butterfly flapping its wings in Brazil could set off or tornado in Texas now let's think about our own life could a small action a random conversation
+or a bold decision set off a chain reaction that could lead to Monumental change that's what happened to me so let me tell you a story so one day my
+my mom mistook an Asian lady with a white dog for me in Hy Park and as you can see we had two very similar looking adorable white dogs
+the lady's name was Tata and we laughed about the whole situation but instead of letting her walk away I decided let me introduce myself
+why not just wanted to make a new friend and uh instead of letting her walk away I wanted to ask her for lunch so a month later we went for lunch we
+shared our stories and we were inspired by each other as female founders and she introduced me to the tedex team and that's why I'm standing here
+today partially because of my dog now you might think oh she's lucky to be here and yes I am lucky but this wasn't luck just falling into my lap
+I made this happen and standing before you today I feel privileged and it makes me quite emotional because if you know me I'm a little bit of
+a shy person so all it took was a single moment of Courage a decision to step out of my comfort zone at the time and that's how L me here today and
+that's when I realized actually some of the biggest opportunities that will come into your life it's not going to come when you're 100% prepared or
+when you're perfect it's by saying yes to those little moments beforehand and that is the first ingredient of my formula opportunity or as I like to
+call it being a yes woman or a yes man and now for the next part I had a long hard thing of what kind of analogy I wanted to use to best describe this
+and this is what I came up with a surfer so picture this you're pounding out in the ocean the perfect wave is coming towards you but there's a catch
+you've never learned how to surf in your life and it doesn't matter how perfect that wave is you're not prepared so you're never going to be able
+to write it and that to me is what the definition of luck is luck are these occasional waves that come and go and it's waiting for that right
+Surfer to write it now let's take for example public speaking so I used to be terrified of it and still am a little bit um but in the past
+I was petrified and I was realizing that fear was really holding me back from so many opportunities and so six years ago I participated in one of
+the biggest university competitions at Imperial College London and I was competing against phds and mbas and I was just a little Master student
+I was so nervous and I did everything I could to practice I practiced in front of the mirror in front of my friends in front of my
+friend's dog and then came the big day I took a deep breath went up to stage and everything was going smoothly and then it happened in this screenshot
+of this video clip I completely froze for an eternity I look back at the screen look back at the audience I look back at the screen I didn't know
+what to do and I looked like a deer in headlights and in my head I was thinking completely blown this like I don't even think I'm going to get
+third place and that was my mindset at the time I was like I just wanted to aim for third place and so got down on stage went back to my
+seat feeling quite embarrassed about the whole ordeal let all the pitches go through and then it was time for them to announce the winners
+they announced third place wasn't me second place wasn't us and then first place and the winner was me seriously I honestly was so shocked by
+this moment and I'm not joking because this was my face when I won literally the definition of happy tears literally and this looks super funny all over
+the news articles um and this is such a nostalgic moment for me because it's an old company so it was such a long time ago but um I realized that day
+that even when you think you've completely blown it it's one step towards preparation one step towards your next big moment and that day I felt
+a change in me I felt mentally wired even differently and I was really curious to understand the psychology and the science behind this and
+this is where I came across the term neuroplasticity so neuroplasticity is the brain's ability to reorganize Itself by forming new neural connections
+so when you literally face your fears you're not only getting ready for the next opportunity you're reshaping your brain and you're biologically enhancing yourself
+to increase your capacities to succeed and I I just find that fascinating and that's the second part of my formula preparation and now for the
+final spice to my formula I want everyone to have a think about the next question a personal question to yourself how often do you let fear or
+doubt stop you from putting yourself out there now instead of waiting for that perfect moment or that right circumstance What If instead
+we made ourselves visible and created these moments ourselves so when I became the CEO of a fintech startup I actually had minimal experience in finance
+I was my expertise was in computer science I at the time didn't know the difference between a bull market and an actual bull at the time but
+I saw an opportunity and I wanted to go for it so I spent hours learning the basics for months and months I went out and met as many experts as possible and
+most importantly I was visible I was hungry I found any industry event in London that I could go to that related to that and that ended up exceeding
+All my expectations we ended up in the accelerator of the biggest bank in the UK followed by being admitted into uh one of the big four consulting
+firms accelerators and our biggest break yet was we got um an investment from one of the biggest American accelerators in the world so
+we were the 12 startups that were chosen in London and to give you perspective less than 1% out of 177,000 global applications get accepted a year
+so we apply three times just so you know but um was that luck or was it being visible and putting yourself out there over and over and over again
+so have a hard thing to yourself what's stopping you from showing up and being seen right now in whatever you're doing at the moment and that is
+the completed formula so the biggest takeaway that I want everyone to leave here with today is that the next time you're feeling
+unmotivated you're feeling a certain event meeting or occasion maybe doesn't sit well with you right now you're not really feeling it
+I would say think again you never know of what something that you might do today could open doors for you tomorrow or the future so
+please we need to stop thinking that luck is about chance we need to get out there create our own luck and be your own lucky charm thank you
+```
+
 * [Use Strategic Thinking to Create the Life You Want - video](https://www.youtube.com/watch?v=dbiNhAZlXZk)
+* [The Luck Formula: The Secret to Being in the Right Place at Right Time](https://www.youtube.com/watch?v=0YPBVeHWPaw)
+* [#1 Best Meal to Clean Out Your Arteries](https://www.youtube.com/watch?v=23yNXtR-N1s)
