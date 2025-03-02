@@ -7,7 +7,9 @@
 * TL;DR vs In-depth
 * Key quotes
 
-
+#### Youtube video transcript:
+* Use Strategic Thinking to Create the Life You Want\
+* The Luck Formula: The Secret to Being in the Right Place at Right Time
 
 #### Transcript - Use Strategic Thinking to Create the Life You Want
 ```
@@ -72,9 +74,8 @@ Now you could say, isn't a great life a chain of lucky events? Fortunately, Sene
 And strategize your life helps you with the preparation.
 ```
 
-#### Transcript - Use Strategic Thinking to Create the Life You Want
 
-#### Resources - The Luck Formula: The Secret to Being in the Right Place at Right Time
+#### Transcript - The Luck Formula: The Secret to Being in the Right Place at Right Time
 
 ```
 so what if I told you that luck is actually a myth then instead of waiting for it to find you you can actually create yourself now think about it
