@@ -107,4 +107,4 @@ Possible outcomes:
 
 ### Extra Activity
 #### Take a look at the image below and try to reverse engineering the prompt
-[Japanese Image][japanese-picture.png]
+![Japanese Image](japanese-picture.png)
