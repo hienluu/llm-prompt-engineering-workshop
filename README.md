@@ -25,3 +25,4 @@ Resources:
 * [On Meta-Prompt](https://arxiv.org/pdf/2312.06562.pdf)
 * [OpenAI Prompt Exampoes](https://platform.openai.com/docs/examples)
 * [OpenAI Prompt Generation](https://platform.openai.com/docs/guides/prompt-generation)
+* [PromptHub](https://www.prompthub.us/)
