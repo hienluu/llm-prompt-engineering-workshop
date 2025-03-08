@@ -19,3 +19,10 @@ Problem: Three friends decide to split the cost of a vacation rental. The total 
 Alex stays for the entire duration, Beth stays for 5 nights, and Charlie stays for only 3 nights.
 If they split the cost proportionally based on their length of stay, how much should each person pay?
 ```
+
+### Have fun with visualization
+```
+Write a p5.js script that simulates 100 colorful balls bouncing inside a sphere. Make sure all the balls are inside the sphere. Each ball should leave behind a fading trail showing its recent path. The container sphere should rotate slowly. Make sure to implement proper collision detection so the balls stay within the sphere
+```
+
+Paste the output to this website to see the visualization - [p5.js](https://editor.p5js.org/)
