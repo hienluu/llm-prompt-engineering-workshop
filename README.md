@@ -23,3 +23,5 @@ Resources:
 * [Data Analysis with ChatGPT](https://www.youtube.com/results?search_query=advanced+data+analysis+chatgpt)
 * [Prompt Patterns](https://arxiv.org/abs/2302.11382)
 * [On Meta-Prompt](https://arxiv.org/pdf/2312.06562.pdf)
+* [OpenAI Prompt Exampoes](https://platform.openai.com/docs/examples)
+* [OpenAI Prompt Generation](https://platform.openai.com/docs/guides/prompt-generation)
