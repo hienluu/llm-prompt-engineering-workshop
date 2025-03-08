@@ -8,3 +8,5 @@ Resources:
 * [OpenAI Prompt Examples](https://platform.openai.com/docs/examples)
 * [Claude Artiffacts](https://claudeartifacts.com/)
 * [Data Analysis with ChatGPT](https://www.youtube.com/results?search_query=advanced+data+analysis+chatgpt)
+* [Prompt Patterns](https://arxiv.org/abs/2302.11382)
+* [On Meta-Prompt](https://arxiv.org/pdf/2312.06562.pdf)
