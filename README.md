@@ -26,3 +26,4 @@ Resources:
 * [OpenAI Prompt Exampoes](https://platform.openai.com/docs/examples)
 * [OpenAI Prompt Generation](https://platform.openai.com/docs/guides/prompt-generation)
 * [PromptHub](https://www.prompthub.us/)
+* [GPT Masterclass: 4 Years of Prompt Engineering in 16 Minutes](https://www.youtube.com/watch?v=aq7fnqzeaPc)
