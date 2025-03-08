@@ -2,7 +2,7 @@
 
 ### Meeting Summary Generation
 #### Task
-Imagine you have raw, unstructured meeting notes from a weekly team meeting. Your goal is to produce a concise yet comprehensive summary that highlights key decisions, action items, deadlines, and discussion points.
+Imagine you have raw, unstructured meeting notes from a weekly team meeting. Your task is to produce a concise yet comprehensive summary that highlights key decisions, action items, deadlines, and discussion points.
 
 Craft a prompt that instructs the language model to transform these raw notes into a polished meeting summary.
 
