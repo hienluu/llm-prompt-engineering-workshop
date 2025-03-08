@@ -104,3 +104,7 @@ Possible outcomes:
 * Campaign Idea 1: A sustainability challenge encouraging users to share eco-friendly habits, paired with influencer endorsements.
 * Campaign Idea 2: A series of short, engaging videos on social media showcasing modern design and environmental impact, with interactive polls.
 * Campaign Idea 3: A collaborative campaign where customers co-create designs for future bottles, integrated with live Q&A sessions from influencers.
+
+### Extra Activity
+#### Take a look at the image below and try to reverse engineering the prompt
+[Japanese Image][japanese-picture.png]
