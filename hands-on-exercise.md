@@ -1,4 +1,12 @@
 ## Hands-On Exercises
+There are 3 tasks below. See the output section for the high level goals.  Apply the prompt engineering techiques we discuss in this workshop.   
+* Summarization
+* Data Analysis
+* Marketing Campaign
+
+Note down the learnings and share back with the group.  Be creative and have fun.
+
+
 
 ### Meeting Summary Generation
 #### Task
