@@ -108,3 +108,5 @@ Possible outcomes:
 ### Extra Activity
 #### Take a look at the image below and try to reverse engineering the prompt
 ![Japanese Image](japanese-picture.png)
+
+# Try to replicate from ImageFX [https://labs.google/fx/tools/image-fx/3cg361n3p0000](https://labs.google/fx/tools/image-fx/3cg361n3p0000)
